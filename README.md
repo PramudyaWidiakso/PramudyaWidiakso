@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Pramudya Widiakso
+1. Video Editing
+2. Photoshop
+3. UI/UX
+4. Copywriting
 <!--
 **PramudyaWidiakso/PramudyaWidiakso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
